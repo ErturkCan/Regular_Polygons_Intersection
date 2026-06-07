@@ -1,0 +1,3 @@
+# Optional. Only needed for the bounded-region count in verify.py.
+# The intersection-point checks run on the standard library alone.
+shapely>=2.0
